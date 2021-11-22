@@ -13,7 +13,7 @@ Official API for the known townlist.tk, this module can be used for many stuff. 
 *If you have trouble with the installation, please feel free to visit our [discord](https://townlist.tk/dc) address.*
 - `npm i listing-dtl-api`
 
-#### 1. Where can I get townlist.xyz API?
+#### 1. Where can I get townlist.tk API?
   [JavaScript Package](https://www.npmjs.com/package/townlist.api)
             
 
